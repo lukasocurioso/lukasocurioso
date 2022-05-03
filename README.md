@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @lukasocurioso
-- 👀 I’m interested in everything abou tecworld
+- 👋 Hi, I’m Lukas
+- 👀 I’m interested in everything abou techworld
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me ... idk
 
 <!---
 lukasocurioso/lukasocurioso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
