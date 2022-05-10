@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lukas
-- 👀 I’m interested in everything abou techworld
+- 👀 I’m interested in everything about tech
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on ... idk
 
